@@ -1,2 +1,2 @@
-# token7-webfinger-server
-Webfinger Server
+# token7-webfinger-nodejs
+Webfinger (Node.js)
